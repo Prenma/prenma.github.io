@@ -1,0 +1,70 @@
+Package: com.prenma.imeblackicon
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Prenma <your.email@example.com>
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.prenma.imeblackicon_1.0_iphoneos-arm64.deb
+Size: 4608
+MD5sum: 7039a65f6647d55d1e4196f7ac3215a2
+SHA1: 12de124da9f26755d59a6cc744dd615d35023b55
+SHA256: 61c7e61ede4d828c93032d0c70e498dba0850a402c9a42dbc96ddf6d3faaf0ee
+Section: Themes
+Description: A cool theme for iOS devices.
+Name: imeblackicon
+
+Package: com.prenma.sparkicon
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Prenma <your.email@example.com>
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.prenma.sparkicon_1.0_iphoneos-arm64.deb
+Size: 20100
+MD5sum: 5912f26c234cfd3884706589ed2503f8
+SHA1: 0a9732a2a1884a4853ba17f12e34a8d07d92588a
+SHA256: c67c449b8e8e1e9b8f23c1e9a201aca66a54201fa6d962254e02502b3e26a207
+Section: Themes
+Description: Change spark icon
+Name: sparkicon
+
+Package: com.prenma.sparkicon
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Prenma <your.email@example.com>
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.prenma.sparkicon_1.0.1_iphoneos-arm64.deb
+Size: 20100
+MD5sum: ec83e632ba06480a1832899bf0b5a468
+SHA1: 9bb8bdb6888c2054d28c1418f210b2a43e767dc7
+SHA256: ff01ae481c964f056ddff16e3ce212f18ab7e0363df63d45f903e3b90279d0ab
+Section: Themes
+Description: Change spark icon
+Name: sparkicon
+
+Package: com.prenma.tstheme
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Prenma <your.email@example.com>
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.prenma.tstheme_1.0_iphoneos-arm64.deb
+Size: 339816
+MD5sum: 84a3be7c12b1b1e9c1e3531b227f8211
+SHA1: 335cab5d12678a224f4d52b1ffe69ba086dd08d7
+SHA256: 03e3fba876cb5f263365740e0ca2f9deeb95e28b55924d768c5addbee625276b
+Section: Themes
+Description: A cool theme for iOS devices.
+Name: tstheme
+
+Package: com.prenma.tstheme
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Prenma <your.email@example.com>
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.prenma.tstheme_1.0.1_iphoneos-arm64.deb
+Size: 25108
+MD5sum: 6265d431f505c481ed83f10d3e9e9d97
+SHA1: aad5d8721a66ca851382c0ccbad3abe3a97b8a8c
+SHA256: 41e90906bd37867faf3240348976599a00bfa5b32bc908180606b5457ca6763d
+Section: Themes
+Description: A cool theme for iOS devices.
+Name: tstheme
+
