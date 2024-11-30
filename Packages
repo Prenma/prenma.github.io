@@ -40,6 +40,20 @@ Section: Themes
 Description: Change spark icon
 Name: sparkicon
 
+Package: com.prenma.ticon
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Prenma <your.email@example.com>
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.prenma.ticon_1.0_iphoneos-arm64.deb
+Size: 15544
+MD5sum: 602c2c2550b9617a37cce636dff9778e
+SHA1: a01a7126a772b94333f5aa3f3bc0496c52d96149
+SHA256: 7e101f3fa40860bd79ed53eb2a9f2d9678e57eda0b6ece01b3baf8b730a995ee
+Section: Themes
+Description: A cool theme for iOS devices.
+Name: ticon
+
 Package: com.prenma.tstheme
 Version: 1.0
 Architecture: iphoneos-arm64
